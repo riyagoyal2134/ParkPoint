@@ -7,9 +7,6 @@ import streamlit as st
 st.set_page_config(page_title="ParkPoint", layout="centered")
 st.title("Welcome to ParkPoint")
 # Create a container to hold the columns and center them
-st.empty()
-st.empty()
-st.balloons()
 #comments to schange the layout
 with st.container(): 
     # Create two columns for layout
